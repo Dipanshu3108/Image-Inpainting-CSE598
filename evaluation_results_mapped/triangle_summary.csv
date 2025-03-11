@@ -1,0 +1,7 @@
+,PSNR_original_vs_noisy,PSNR_original_vs_noisy,PSNR_original_vs_inpainted,PSNR_original_vs_inpainted,PSNR_noisy_vs_inpainted,PSNR_noisy_vs_inpainted,SSIM_original_vs_noisy,SSIM_original_vs_noisy,SSIM_original_vs_inpainted,SSIM_original_vs_inpainted,SSIM_noisy_vs_inpainted,SSIM_noisy_vs_inpainted,MSE_original_vs_noisy,MSE_original_vs_noisy,MSE_original_vs_inpainted,MSE_original_vs_inpainted,MSE_noisy_vs_inpainted,MSE_noisy_vs_inpainted
+,mean,std,mean,std,mean,std,mean,std,mean,std,mean,std,mean,std,mean,std,mean,std
+noise_type,,,,,,,,,,,,,,,,,,
+exponential,19.2623,0.7767,15.8713,1.0162,16.6817,1.1587,0.5126,0.1168,0.2609,0.0895,0.2097,0.0891,781.8774,121.9414,1731.0434,443.3678,1448.4134,422.0943
+gamma,14.3254,0.9179,13.0908,0.7352,15.9987,0.9958,0.4145,0.1268,0.2235,0.107,0.1866,0.1077,2450.6645,449.7391,3234.7908,508.443,1674.3207,357.192
+gaussian,23.5177,0.4109,17.3416,1.4328,16.5497,1.1685,0.4886,0.0688,0.2322,0.0382,0.1645,0.0318,290.5392,26.6173,1266.5841,431.4764,1492.7675,416.1201
+uniform,22.0929,0.3911,17.122,1.3404,16.1273,1.0847,0.4273,0.0664,0.2008,0.0309,0.1378,0.0246,403.1798,34.7868,1322.4694,416.6235,1635.2918,406.0741
